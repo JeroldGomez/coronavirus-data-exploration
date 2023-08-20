@@ -26,7 +26,7 @@ Several visualizations were created to better understand the data:
 1. Proportion of Population Infected: A map chart illustrating the proportion of the population that has been infected by COVID-19 in each country, showcasing the varying impact across different nations.
    ![Screenshot (261)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/5b8334d4-d142-4bb4-b3c4-8964f6aeb61b)
 2. Mortality Rates Across Regions: A bar chart displaying the distribution of mortality rates across different regions, highlighting areas with higher or lower rates.
-   ![Screenshot (264)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/203c400b-1673-44ef-9412-c0da655d56e3)
+![Screenshot (264)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/203c400b-1673-44ef-9412-c0da655d56e3)
 3. Total Confirmed Deaths by Regions: An area chart showcasing the total confirmed COVID-19 deaths in various geographic regions, providing a geographic perspective on the pandemic's impact.
    ![Screenshot (263)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/2361aecd-b4dd-457d-8c3a-a678e7a6a071)
 4. Daily Death Count Trends: An area chart depicting the daily count of COVID-19 deaths over time, helping us identify trends, spikes, and patterns in mortality rates.
