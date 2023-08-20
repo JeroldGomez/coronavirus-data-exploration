@@ -10,3 +10,7 @@ This project aims to conduct SQL data exploration and visualization of COVID-19 
 3. **Total Confirmed COVID-19 Deaths by Geographic Regions:** Use SQL queries to aggregate and visualize the total confirmed COVID-19 deaths in various geographic regions, providing a clear overview of the impact of the virus on a regional level.
 
 4. **Daily Death Count:** Calculate and visualize the daily count of COVID-19 deaths, allowing us to observe trends, spikes, and fluctuations in mortality on a daily basis.
+
+
+## Data Source
+The data for this project was obtained from https://ourworldindata.org/covid-deaths#what-is-the-daily-number-of-confirmed-deaths, specifically focusing on COVID-19-related statistics such as total cases, deaths, population, and other relevant metrics. The dataset provides valuable information for understanding the impact of the pandemic across different countries and regions.
