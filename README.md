@@ -29,6 +29,4 @@ Several visualizations were created to better understand the data:
    ![Screenshot (263)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/2361aecd-b4dd-457d-8c3a-a678e7a6a071)
 4. Daily Death Count Trends: An area chart depicting the daily count of COVID-19 deaths over time, helping us identify trends, spikes, and patterns in mortality rates.
    ![Screenshot (262)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/c1a244a7-863d-457a-bcc9-6ff0ba6e4e71)
-2. Mortality Rates Across Regions: A bar chart displaying the distribution of mortality rates across different regions, highlighting areas with
-   higher or lower rates.
-   ![Screenshot (264)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/203c400b-1673-44ef-9412-c0da655d56e3)
+2. Mortality Rates Across Regions: A bar chart displaying the distribution of mortality rates across different regions, highlighting areas with higher or lower rates.
