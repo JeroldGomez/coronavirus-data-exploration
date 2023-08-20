@@ -14,3 +14,12 @@ This project aims to conduct SQL data exploration and visualization of COVID-19 
 
 ## Data Source
 The data for this project was obtained from https://ourworldindata.org/covid-deaths#what-is-the-daily-number-of-confirmed-deaths, specifically focusing on COVID-19-related statistics such as total cases, deaths, population, and other relevant metrics. The dataset provides valuable information for understanding the impact of the pandemic across different countries and regions.
+
+## Data Exploration
+To conduct the data exploration and visualization, SQL queries were employed to aggregate and transform the data. Using SQL allows me to perform calculations, filtering, and grouping to derive meaningful insights from the dataset.
+
+## Visualizations
+Several visualizations were created to better understand the data:
+
+1. Proportion of Population Infected: A bar chart illustrating the proportion of the population that has been infected by COVID-19 in each country, showcasing the varying impact across different nations.
+   ![Screenshot (261)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/5b8334d4-d142-4bb4-b3c4-8964f6aeb61b)
