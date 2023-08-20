@@ -33,6 +33,12 @@ Several visualizations were created to better understand the data:
 4. Daily Death Count Trends: An area chart depicting the daily count of COVID-19 deaths over time, helping us identify trends, spikes, and patterns in mortality rates.
    ![Screenshot (262)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/c1a244a7-863d-457a-bcc9-6ff0ba6e4e71)
 
+
+## Tableau Dashboard
+
+Check out the interactive Tableau dashboard I created for COVID-19 data analysis:
+https://public.tableau.com/app/profile/jb.gomez/viz/DataProject1_16924579630130/Dashboard2
+
 ## Tech Stack
 This project was carried out using a combination of several tools and software to analyze and visualize the COVID-19 data effectively:
 
