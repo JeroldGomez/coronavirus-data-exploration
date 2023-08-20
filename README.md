@@ -33,3 +33,12 @@ Several visualizations were created to better understand the data:
 4. Daily Death Count Trends: An area chart depicting the daily count of COVID-19 deaths over time, helping us identify trends, spikes, and patterns in mortality rates.
    ![Screenshot (262)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/c1a244a7-863d-457a-bcc9-6ff0ba6e4e71)
 
+## Tech Stack
+This project was carried out using a combination of several tools and software to analyze and visualize the COVID-19 data effectively:
+
+* Microsoft Excel: Microsoft Excel was employed to preprocess, clean, and organize the data before importing it into the SQL environment.
+
+* SQL (SQL Server Management Studio): SQL queries were crafted and executed in SQL Server Management Studio to explore the dataset, aggregate information, and derive insights.
+
+* Tableau: Tableau was utilized to create various visualizations that showcase the trends, patterns, and distributions within the COVID-19 dataset.
+
