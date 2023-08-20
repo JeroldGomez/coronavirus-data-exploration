@@ -27,11 +27,11 @@ Several visualizations were created to better understand the data:
    ![Screenshot (261)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/b3695df6-46f9-477c-814b-a54995166beb)
 2. Mortality Rates Across Regions: A bar chart displaying the distribution of mortality rates across different regions, highlighting areas with higher or lower rates.
 
-   ![Screenshot (264)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/203c400b-1673-44ef-9412-c0da655d56e3)
+   ![Screenshot (264)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/6f8f8916-4a97-4cf3-9eaa-c07fe14a3eb2)
 3. Total Confirmed Deaths by Regions: An area chart showcasing the total confirmed COVID-19 deaths in various geographic regions, providing a geographic perspective on the pandemic's impact.
-   ![Screenshot (263)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/2361aecd-b4dd-457d-8c3a-a678e7a6a071)
+   ![Screenshot (263)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/8930ce78-dfd4-43bd-bb4b-f6a21f168df2)
 4. Daily Death Count Trends: An area chart depicting the daily count of COVID-19 deaths over time, helping us identify trends, spikes, and patterns in mortality rates.
-   ![Screenshot (262)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/c1a244a7-863d-457a-bcc9-6ff0ba6e4e71)
+   ![Screenshot (262)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/8f4d7c7a-960c-4ef0-bfbd-c9665db084d7)
 
 
 ## Tableau Dashboard
