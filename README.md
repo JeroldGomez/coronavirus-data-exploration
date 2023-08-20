@@ -1,5 +1,6 @@
 # Coronavirus-Data-Exploration
 
+
 ## Objective
 This project aims to conduct SQL data exploration and visualization of COVID-19 data to gain insights into the impact of the pandemic. The main objectives include:
 
@@ -10,6 +11,7 @@ This project aims to conduct SQL data exploration and visualization of COVID-19 
 3. **Total Confirmed COVID-19 Deaths by Geographic Regions:** Use SQL queries to aggregate and visualize the total confirmed COVID-19 deaths in various geographic regions, providing a clear overview of the impact of the virus on a regional level.
 
 4. **Daily Death Count:** Calculate and visualize the daily count of COVID-19 deaths, allowing us to observe trends, spikes, and fluctuations in mortality on a daily basis.
+
 
 
 ## Data Source
