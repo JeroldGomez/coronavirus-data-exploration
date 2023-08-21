@@ -42,7 +42,7 @@ https://public.tableau.com/app/profile/jb.gomez/viz/DataProject1_16924579630130/
 ## Tech Stack
 This project was carried out using a combination of several tools and software to analyze and visualize the COVID-19 data effectively:
 
-* Microsoft Excel: Microsoft Excel was employed to preprocess, clean, and organize the data before importing it into the SQL environment.
+* Microsoft Excel: Microsoft Excel was employed to preprocess and organize the data before importing it into the SQL environment.
 
 * SQL (SQL Server Management Studio): SQL queries were crafted and executed in SQL Server Management Studio to explore the dataset, aggregate information, and derive insights.
 
