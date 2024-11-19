@@ -33,6 +33,10 @@ Several visualizations were created to better understand the data:
 4. Daily Death Count Trends: An area chart depicting the daily count of COVID-19 deaths over time, helping us identify trends, spikes, and patterns in mortality rates.
    ![Screenshot (262)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/8f4d7c7a-960c-4ef0-bfbd-c9665db084d7)
 
+   In the current visualization, the cumulative deaths bar at the top-right corner uses a color gradient where higher death counts are represented with more intense red. However, the line chart below does not reflect this color encoding. Even during peak death counts,       the line chart remains gray, which may cause confusion and reduce the effectiveness of the visual representation.
+
+   This issue will be addressed in future updates to ensure consistent color usage across all elements of the visualization.
+
 
 ## Tableau Dashboard
 
