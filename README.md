@@ -1,4 +1,4 @@
-# Coronavirus-Data-Exploration
+# Coronavirus Data Exploration
 
 
 ## Objective
