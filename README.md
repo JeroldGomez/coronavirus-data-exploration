@@ -33,9 +33,17 @@ Several visualizations were created to better understand the data:
 4. Daily Death Count Trends: An area chart depicting the daily count of COVID-19 deaths over time, helping us identify trends, spikes, and patterns in mortality rates.
    ![Screenshot (262)](https://github.com/JeroldGomez/Coronavirus-Data-Exploration/assets/106787297/8f4d7c7a-960c-4ef0-bfbd-c9665db084d7)
 
-   In the current visualization, the cumulative deaths bar at the top-right corner uses a color gradient where higher death counts are represented with more intense red. However, the line chart below does not reflect this color encoding. Even during peak death counts,       the line chart remains gray, which may cause confusion and reduce the effectiveness of the visual representation.
+At first glance, the visualization for the daily death count appears problematic. It displays a pattern of sharp, repeating spikes rather than a smooth curve, which can make it difficult to interpret the true progression of the pandemic's waves. The color gradient, which represents the total number of deaths, is also obscured by this extreme daily volatility.
 
-   This issue will be addressed in future updates to ensure consistent color usage across all elements of the visualization.
+`Is the Visualization Wrong? No, It's Accurately Reflecting Reality.`
+
+Contrary to what one might assume, this "spiky" visualization is not the result of an error in the SQL query or the visualization tool. Instead, it is an accurate representation of how real-world public health data is reported.
+
+The primary reason for these regular spikes is inconsistent reporting schedules, especially on weekends.
+- Weekend Lag: Most health departments and government agencies do not report data, or report incomplete data, on Saturdays and Sundays.
+- Weekday Catch-up: This backlog of data from the weekend is then processed and reported in a large batch on Mondays or Tuesdays, resulting in a dramatic spike in the numbers for those days.
+
+Therefore, while the visualization may look "wrong" from a trend-analysis perspective, it correctly shows the raw, day-to-day data as it was made available to the public.
 
 
 ## Tableau Dashboard
@@ -48,7 +56,7 @@ This project was carried out using a combination of several tools and software t
 
 * Microsoft Excel: Microsoft Excel was employed to preprocess and organize the data before importing it into the SQL environment.
 
-* SQL (SQL Server Management Studio): SQL queries were crafted and executed in SQL Server Management Studio to explore the dataset, aggregate information, and derive insights.
+* SQL: SQL queries were crafted and executed in SQL Server Management Studio to explore the dataset, aggregate information, and derive insights.
 
 * Tableau: Tableau was utilized to create various visualizations that showcase the trends, patterns, and distributions within the COVID-19 dataset.
 
